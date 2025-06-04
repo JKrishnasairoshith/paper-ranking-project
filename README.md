@@ -107,6 +107,8 @@ ScoreDiff = Weighted Overall - Average Overall
 Created in `top10.ipynb`:
 
 -  Bar chart showing top 10 papers ranked by score difference.
+  ![Top 10 Paper](Top%2010%20Paper.png)
+
 
 -  Insight: Several papers had a **significant positive boost** when confidence was accounted for.
 
